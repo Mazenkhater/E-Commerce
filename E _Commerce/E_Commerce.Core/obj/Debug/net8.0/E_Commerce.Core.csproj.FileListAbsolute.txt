@@ -1,0 +1,5 @@
+C:\Users\Apex\Desktop\E Commerce\E _Commerce\E_Commerce.Core\obj\Debug\net8.0\E_Commerce.Core.csproj.AssemblyReference.cache
+C:\Users\Apex\Desktop\E Commerce\E _Commerce\E_Commerce.Core\obj\Debug\net8.0\E_Commerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex\Desktop\E Commerce\E _Commerce\E_Commerce.Core\obj\Debug\net8.0\E_Commerce.Core.AssemblyInfoInputs.cache
+C:\Users\Apex\Desktop\E Commerce\E _Commerce\E_Commerce.Core\obj\Debug\net8.0\E_Commerce.Core.AssemblyInfo.cs
+C:\Users\Apex\Desktop\E Commerce\E _Commerce\E_Commerce.Core\obj\Debug\net8.0\E_Commerce.Core.csproj.CoreCompileInputs.cache
