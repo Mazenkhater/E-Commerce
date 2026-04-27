@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Apex\\Desktop\\E Commerce\\E _Commerce\\E_Commerce.Data\\E_Commerce.Data.csproj": {}
+    "C:\\Users\\Apex\\Documents\\Ecommerce_Github\\E _Commerce\\E_Commerce.Data\\E_Commerce.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Apex\\Desktop\\E Commerce\\E _Commerce\\E_Commerce.Core\\E_Commerce.Core.csproj": {
+    "C:\\Users\\Apex\\Documents\\Ecommerce_Github\\E _Commerce\\E_Commerce.Core\\E_Commerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Apex\\Desktop\\E Commerce\\E _Commerce\\E_Commerce.Core\\E_Commerce.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Apex\\Documents\\Ecommerce_Github\\E _Commerce\\E_Commerce.Core\\E_Commerce.Core.csproj",
         "projectName": "E_Commerce.Core",
-        "projectPath": "C:\\Users\\Apex\\Desktop\\E Commerce\\E _Commerce\\E_Commerce.Core\\E_Commerce.Core.csproj",
+        "projectPath": "C:\\Users\\Apex\\Documents\\Ecommerce_Github\\E _Commerce\\E_Commerce.Core\\E_Commerce.Core.csproj",
         "packagesPath": "C:\\Users\\Apex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Apex\\Desktop\\E Commerce\\E _Commerce\\E_Commerce.Core\\obj\\",
+        "outputPath": "C:\\Users\\Apex\\Documents\\Ecommerce_Github\\E _Commerce\\E_Commerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Apex\\Desktop\\E Commerce\\E _Commerce\\E_Commerce.Data\\E_Commerce.Data.csproj": {
+    "C:\\Users\\Apex\\Documents\\Ecommerce_Github\\E _Commerce\\E_Commerce.Data\\E_Commerce.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Apex\\Desktop\\E Commerce\\E _Commerce\\E_Commerce.Data\\E_Commerce.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Apex\\Documents\\Ecommerce_Github\\E _Commerce\\E_Commerce.Data\\E_Commerce.Data.csproj",
         "projectName": "E_Commerce.Data",
-        "projectPath": "C:\\Users\\Apex\\Desktop\\E Commerce\\E _Commerce\\E_Commerce.Data\\E_Commerce.Data.csproj",
+        "projectPath": "C:\\Users\\Apex\\Documents\\Ecommerce_Github\\E _Commerce\\E_Commerce.Data\\E_Commerce.Data.csproj",
         "packagesPath": "C:\\Users\\Apex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Apex\\Desktop\\E Commerce\\E _Commerce\\E_Commerce.Data\\obj\\",
+        "outputPath": "C:\\Users\\Apex\\Documents\\Ecommerce_Github\\E _Commerce\\E_Commerce.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -107,8 +107,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Apex\\Desktop\\E Commerce\\E _Commerce\\E_Commerce.Core\\E_Commerce.Core.csproj": {
-                "projectPath": "C:\\Users\\Apex\\Desktop\\E Commerce\\E _Commerce\\E_Commerce.Core\\E_Commerce.Core.csproj"
+              "C:\\Users\\Apex\\Documents\\Ecommerce_Github\\E _Commerce\\E_Commerce.Core\\E_Commerce.Core.csproj": {
+                "projectPath": "C:\\Users\\Apex\\Documents\\Ecommerce_Github\\E _Commerce\\E_Commerce.Core\\E_Commerce.Core.csproj"
               }
             }
           }
